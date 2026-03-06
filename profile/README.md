@@ -22,7 +22,7 @@ Whether you’re looking to build a [Data Client](https://developers.webflow.com
 
 Got questions, comments, or suggestions? Maybe looking for some inspiration? Check out our other resources!
 
-- [Webflow Forum - App Developers](https://discourse.webflow.com/c/app-developers/90)
+- [Webflow Community - App Developers](https://community.webflow.com/developers-space)
 - [API Changelog](https://developers.webflow.com/data/changelog)
 - [Apps Marketplace](https://webflow.com/apps)
-- [Submitting your Webflow App for the Marketplace](https://developers.webflow.com/data/docs/overview)
+- [Submitting your Webflow App for the Marketplace](https://developers.webflow.com/apps/docs/marketplace/submitting-your-app)
